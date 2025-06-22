@@ -29,10 +29,8 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2>Github Stats 📊 </h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sofiam&show_icons=true&theme=tokyonight" alt="Sofía's github stats" width="300" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiam&theme=tokyonight&layout=compact" alt="Sofía's Top Langs" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sofiam&show_icons=true&theme=tokyonight" alt="Sofía's github stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiam&theme=tokyonight&layout=compact" alt="Sofía's Top Langs" width="400" />
 </p>
 
 <!--linea-->
