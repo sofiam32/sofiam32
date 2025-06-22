@@ -23,6 +23,17 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash Logo" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java Logo" width="60"/>
 </p>
+<!--linea-->
+  </p>
+<br>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<h2>Github Stats 📊 </h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sofiam&show_icons=true&theme=tokyonight" alt="Sofía's github stats" width="450" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiam&theme=tokyonight&layout=compact" alt="Sofía's Top Langs" width="450" />
+</p>
 
 <!--linea-->
   </p>
