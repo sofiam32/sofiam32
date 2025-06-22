@@ -30,9 +30,9 @@
 
 <h2>Github Stats 📊 </h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sofiam&show_icons=true&theme=tokyonight" alt="Sofía's github stats" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sofiam&show_icons=true&theme=tokyonight" alt="Sofía's github stats" width="300" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiam&theme=tokyonight&layout=compact" alt="Sofía's Top Langs" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiam&theme=tokyonight&layout=compact" alt="Sofía's Top Langs" width="300" />
 </p>
 
 <!--linea-->
