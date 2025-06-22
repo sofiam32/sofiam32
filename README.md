@@ -29,8 +29,17 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2>Github Stats 📊 </h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=sofiam&show_icons=true&theme=tokyonight" alt="Sofía's github stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiam&theme=tokyonight&layout=compact" alt="Sofía's Top Langs" width="400" />
+<p align="center" style="white-space: nowrap;">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sofiam&show_icons=true&theme=tokyonight"
+    alt="Sofía's github stats"
+    width="400"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiam&theme=tokyonight&layout=compact"
+    alt="Sofía's Top Langs"
+    width="400"
+  />
 </p>
 
 <!--linea-->
@@ -47,8 +56,12 @@
   <a href="https://instagram.com/sofiam32_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.linkedin.com/in/sofia-merino-fernandez-86b40a31a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+ <a href="https://www.linkedin.com/in/sof%C3%ADa-merino-fern%C3%A1ndez-86b40a31a/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
 </div>
 
