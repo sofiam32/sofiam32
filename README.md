@@ -31,12 +31,12 @@
 <h2>Github Stats 📊 </h2>
 <p align="center" style="white-space: nowrap;">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=sofiam&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=sofiam32&show_icons=true&theme=tokyonight"
     alt="Sofía's github stats"
     width="400"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiam&theme=tokyonight&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiam32&theme=tokyonight&layout=compact"
     alt="Sofía's Top Langs"
     width="400"
   />
