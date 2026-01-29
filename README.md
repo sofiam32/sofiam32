@@ -6,7 +6,7 @@
 
 <h2>🌟 Sobre mí</h2>
 <div align="left">
-Apasionada por la tecnología y el desarrollo de software, combino mi formación en la **Universidad Politécnica de Madrid** con participación activa en la comunidad universitaria. Me motiva crear soluciones útiles, aprender de forma constante y crecer tanto profesional como personalmente.
+Apasionada por la tecnología y el desarrollo de software, combino mi formación en la Universidad Politécnica de Madrid con participación activa en la comunidad universitaria. Me motiva crear soluciones útiles, aprender de forma constante y crecer tanto profesional como personalmente.
 
 - 🎓 **Ingeniería de Software** — Universidad Politécnica de Madrid  
 - 💻 **Desarrollo de software** — Bases sólidas en programación y diseño  
