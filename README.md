@@ -10,7 +10,6 @@ Apasionada por la tecnología y el desarrollo de software, combino mi formación
 
 - 🎓 **Ingeniería de Software** — Universidad Politécnica de Madrid  
 - 💻 **Desarrollo de software** — Bases sólidas en programación y diseño  
-- 📣 **Equipo de Comunicación** — Delegación de Alumnos ETSISI  
 - 🚀 **Aprendizaje continuo** — Siempre explorando nuevas tecnologías  
 - 🤝 **Trabajo en equipo** — Experiencia colaborativa en proyectos académicos  
 </div>
